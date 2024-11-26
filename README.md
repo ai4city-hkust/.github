@@ -9,6 +9,8 @@ Our research is both mission- and impact-oriented. We integrate data analytics a
 <p align="center"> 
      <img src="./figure/research-field.jpg" width="650"> 
 </p>
+
+
 ## Cooperative Institutions
 
 - [EOS Department](https://www.itc.nl/about-itc/scientific-departments/earth-observation-science/), [ITC](https://www.itc.nl/), [Univerisy of Twente](https://www.utwente.nl/en/)
